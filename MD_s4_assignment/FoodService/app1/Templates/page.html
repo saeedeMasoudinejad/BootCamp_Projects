@@ -1,0 +1,19 @@
+<h1>Name</h1>
+
+<div>
+    <h2> List of username </h2>
+    {% for i in object_list %}
+        <p>{{i.name}} </p>
+    {% endfor %}
+    <h2> List of Foods </h2>
+    {% for i in Food_data %}
+        <p>{{i.name}} </p>
+        <p>{{i.category}} </p>
+        <p>{{i.price}} </p>
+    {% endfor %}
+     <h2> List of commnerts </h2>
+    {% for i in Comment_data %}
+        <p>{{i.user_id.name}} </p>
+        <p>{{i.food_id.name}} </p>
+    {% endfor %}
+</div>
