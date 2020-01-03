@@ -1,0 +1,10 @@
+What will be the output of the following code :print type(type(int)),type 'int',type 'type',Error,0,2
+What is the output of the following code :L = ['a'\,'b'\,'c'\,'d']print "".join(L),Error,None,abcd,[‘a’\,’b’\,’c’\,’d’],3
+What is the output of the following segment :chr(ord('A')),A,B,a,Error,1
+What is the output of the following program :y = 8 z = lambda x : x * y print z(6),48,14,64,None of the above,1
+What is called when a function is defined inside a class?,Module,Class,Another Function,Method
+Which of the following is the use of id() function in python?,Id returns the identity of the object,Every object doesn’t have a unique id,All of the mentioned,None of the mentioned,1
+What is the output of the following program :import re  sentence = 'horses are fast' regex = re.compile('(?P<animal>w+) (?P<verb>w+) (?P<adjective>w+)')matched = re.search(regex, sentence)))print(matched.groupdict()),{‘animal’: ‘horses’, ‘verb’: ‘are’, ‘adjective’: ‘fast’},(‘horses’, ‘are’, ‘fast’),‘horses are fast’,‘are’,1
+Suppose list1 is [3\, 4\, 5\, 20\, 5\, 25\, 1\, 3]\, what is list1 after list1.pop(1)?,[3\, 4\, 5\, 20\, 5\, 25\, 1\, 3],[1\, 3\, 3\, 4\, 5\, 5\, 20\, 25],[3\, 5\, 20\, 5\, 25\, 1\, 3],[1\, 3\, 4\, 5\, 20\, 5\, 25],3
+time.time() returns ________,the current time,the current time in milliseconds,the current time in milliseconds since midnight,the current time in milliseconds since midnight\, January 1\, 1970,the current time in milliseconds since midnight\, January 1\, 1970 GMT (the Unix time),4
+Consider the results of a medical experiment that aims to predict whether someone is going to develop myopia based on some physical measurements and heredity. In this case, the input dataset consists of the person’s medical characteristics and the target variable is binary: 1 for those who are likely to develop myopia and 0 for those who aren’t. This can be best classified as,Regression,Decision Tree,Clustering,Association Rules,2
