@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Pipenv (MD_s2)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Mapsa_s1_Django" />
+    <orderEntry type="module" module-name="Test" />
+    <orderEntry type="module" module-name="MD_s1" />
+    <orderEntry type="module" module-name="Mapsa_s2_d" />
+    <orderEntry type="module" module-name="MD_s3" />
+    <orderEntry type="module" module-name="MD_s3" />
+    <orderEntry type="module" module-name="MD_assign1" />
+    <orderEntry type="module" module-name="MD_assignmet1" />
+  </component>
+</module>

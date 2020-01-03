@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ced42c9d-eb30-4bd8-a643-343aa517cee0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MD_s2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VNKk3R0Dx7oyghTwNNufHtq2e0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ShowAllQuestions" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="Assign1_detect_img_tag" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MD_s1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MD_s1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MD_s1/Assign1_detect_img_tag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShowAllQuestions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MD_s2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\saide\.virtualenvs\MD_s2-JimOzpxe\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShowAllQuestions" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MD_s2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ShowAllQuestions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShowAllQuestions/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MD_s2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ShowAllQuestions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShowAllQuestions/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MD_s2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ShowAllQuestions/app1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShowAllQuestions/app1/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mapsa_s2_d" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/Windows.old/Users/saide/PycharmProjects/Mapsa_s2_d/questions/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:/Windows.old/Users/saide/PycharmProjects/Mapsa_s2_d/questions/pages/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ShowAllQuestions" />
+      <item itemvalue="Python.Assign1_detect_img_tag" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced42c9d-eb30-4bd8-a643-343aa517cee0" name="Default Changelist" comment="" />
+      <created>1577088253555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577088253555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577157198734">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1577157198734" />
+    <state x="420" y="86" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577157195953">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="86" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.760@0.0.1280.760" timestamp="1577157195953" />
+    <state x="371" y="0" key="#views" timestamp="1577154123604">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="0" key="#views/0.0.1280.760@0.0.1280.760" timestamp="1577154123604" />
+    <state x="420" y="136" key="FileChooserDialogImpl" timestamp="1577156394159">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1577156394159" />
+    <state width="1259" height="236" key="GridCell.Tab.0.bottom" timestamp="1577212574963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1577212574963" />
+    <state width="1259" height="236" key="GridCell.Tab.0.center" timestamp="1577212574963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1577212574963" />
+    <state width="1259" height="236" key="GridCell.Tab.0.left" timestamp="1577212574963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1577212574963" />
+    <state width="1259" height="236" key="GridCell.Tab.0.right" timestamp="1577212574963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1577212574963" />
+    <state width="1259" height="236" key="GridCell.Tab.1.bottom" timestamp="1577212574963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1577212574963" />
+    <state width="1259" height="236" key="GridCell.Tab.1.center" timestamp="1577212574963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1577212574963" />
+    <state width="1259" height="236" key="GridCell.Tab.1.left" timestamp="1577212574963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1577212574963" />
+    <state width="1259" height="236" key="GridCell.Tab.1.right" timestamp="1577212574963">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1577212574963" />
+    <state x="97" y="47" key="SettingsEditor" timestamp="1577281206859">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="97" y="47" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1577281206859" />
+    <state width="648" height="388" key="XDebugger.FullValuePopup" timestamp="1577143412889">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="648" height="388" key="XDebugger.FullValuePopup/0.0.1280.760@0.0.1280.760" timestamp="1577143412889" />
+    <state x="336" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1577268107685">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="336" y="205" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1577268107685" />
+    <state x="199" y="117" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577154354426">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="199" y="117" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.760@0.0.1280.760" timestamp="1577154354426" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../MD_s1/Assign1_detect_img_tag.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ShowAllQuestions/app1/views.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ShowAllQuestions/app1/views.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ShowAllQuestions/app1/views.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="request" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

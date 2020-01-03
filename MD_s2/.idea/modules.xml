@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MD_assign1/.idea/MD_assign1.iml" filepath="$PROJECT_DIR$/../MD_assign1/.idea/MD_assign1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MD_assignmet1/.idea/MD_assignmet1.iml" filepath="$PROJECT_DIR$/../MD_assignmet1/.idea/MD_assignmet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MD_s1/.idea/MD_s1.iml" filepath="$PROJECT_DIR$/../MD_s1/.idea/MD_s1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MD_s2.iml" filepath="$PROJECT_DIR$/.idea/MD_s2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MD_s3/.idea/MD_s3.iml" filepath="$PROJECT_DIR$/../MD_s3/.idea/MD_s3.iml" />
+      <module fileurl="file://C:/Windows.old/Users/saide/PycharmProjects/Mapsa_s1_Django/.idea/Mapsa_s1_Django.iml" filepath="C:/Windows.old/Users/saide/PycharmProjects/Mapsa_s1_Django/.idea/Mapsa_s1_Django.iml" />
+      <module fileurl="file://C:/Windows.old/Users/saide/PycharmProjects/Mapsa_s2_d/.idea/Mapsa_s2_d.iml" filepath="C:/Windows.old/Users/saide/PycharmProjects/Mapsa_s2_d/.idea/Mapsa_s2_d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../Test/.idea/Test.iml" />
+    </modules>
+  </component>
+</project>
