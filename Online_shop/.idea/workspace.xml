@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -24,7 +24,119 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OnlineShopProject/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saide\PycharmProjects\Online_shop\OnlineShopProject\static\pic" />
+      <recent name="C:\Users\saide\PycharmProjects\Online_shop\OnlineShopProject\static" />
+      <recent name="C:\Users\saide\PycharmProjects\Online_shop\OnlineShopProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Online_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\saide\.virtualenvs\Online_shop-7TEzfEvG\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OnlineShopProject" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OnlineShopProject/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tradeapp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Online_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OnlineShopProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OnlineShopProject/tradeapp" />
+      <option name="PARAMETERS" value="runserver 8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Online_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OnlineShopProject/tradeapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OnlineShopProject/tradeapp/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server" nameIsGenerated="true">
+      <module name="Online_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\saide\.virtualenvs\Online_shop-7TEzfEvG\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.tradeapp" />
+      <item itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.tradeapp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,17 +160,81 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579013531177</updated>
+      <workItem from="1580652146600" duration="1205000" />
+      <workItem from="1580655767199" duration="885000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="164" y="47" key="SettingsEditor" timestamp="1579099555398">
+    <state x="359" y="0" key="#Unnamed" timestamp="1580656029675">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="164" y="47" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1579099555398" />
-    <state x="303" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1579327428642">
+    <state x="359" y="0" key="#Unnamed/0.0.1280.760@0.0.1280.760" timestamp="1580656029675" />
+    <state x="94" y="36" width="1092" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580657153606">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="303" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1579327428642" />
+    <state x="94" y="36" width="1092" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1580657153606" />
+    <state x="537" y="168" key="#xdebugger.evaluate" timestamp="1580713368001">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="537" y="168" key="#xdebugger.evaluate/0.0.1280.760@0.0.1280.760" timestamp="1580713368001" />
+    <state x="374" y="159" key="EnvironmentVariablesDialog" timestamp="1580656433268">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="374" y="159" key="EnvironmentVariablesDialog/0.0.1280.760@0.0.1280.760" timestamp="1580656433268" />
+    <state x="420" y="136" key="FileChooserDialogImpl" timestamp="1580657144117">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1580657144117" />
+    <state width="1259" height="189" key="GridCell.Tab.0.bottom" timestamp="1580763563414">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1580763563414" />
+    <state width="1259" height="189" key="GridCell.Tab.0.center" timestamp="1580763563413">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1580763563413" />
+    <state width="1259" height="189" key="GridCell.Tab.0.left" timestamp="1580763563413">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1580763563413" />
+    <state width="1259" height="189" key="GridCell.Tab.0.right" timestamp="1580763563414">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1580763563414" />
+    <state width="1259" height="236" key="GridCell.Tab.1.bottom" timestamp="1580761152847">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1580761152847" />
+    <state width="1259" height="236" key="GridCell.Tab.1.center" timestamp="1580761152847">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1580761152847" />
+    <state width="1259" height="236" key="GridCell.Tab.1.left" timestamp="1580761152846">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1580761152846" />
+    <state width="1259" height="236" key="GridCell.Tab.1.right" timestamp="1580761152847">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1580761152847" />
+    <state x="164" y="47" key="SettingsEditor" timestamp="1580656026226">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="164" y="47" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1580656026226" />
+    <state x="303" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1580629604043">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1580629604043" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="type(good_obj)" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

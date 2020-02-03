@@ -6,7 +6,9 @@ from .models import ProfileTable
 from django.contrib.auth.views import LoginView
 from django.http import HttpResponse
 from django.contrib.auth.models import User
-# from django.contrib.auth.views import
+# from rest_framework.authtoken.models import Token
+from django.contrib.auth import login,authenticate
+
 
 def load_main_page(request):
     return render(request, 'base.html')
@@ -20,8 +22,11 @@ class SignUp(View):
 
     def post(self, request):
         form_data = UserCreationForm(request.POST)
+        # print(request.POST[''])
         if form_data.is_valid():
             form_data.save()
+            user = authenticate(request, username=request.POST['username'], password=request.POST['password1'])
+            # Token.objects.get_or_create(user=user)
             return redirect('home')
         else:
             return HttpResponse("Not valid")
@@ -32,7 +37,7 @@ class Profile(View):
     def get(self, request):
         profile_form = ProfileForm()
         return render(request, 'profile.html', {'profile_form': profile_form})
-
+        # return render(request, 'profile.html')
     def post(self, request):
         profile_data_form = ProfileForm(request.POST)
         if profile_data_form.is_valid():

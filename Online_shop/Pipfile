@@ -9,6 +9,7 @@ verify_ssl = true
 django = "==2.2"
 psql = "*"
 djangorestframework = "*"
+django-model-utils = "*"
 
 [requires]
 python_version = "3.8"
