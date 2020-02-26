@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92421603-745f-45e5-8032-9ba3018c591b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1WnM8VFLZapvmcKbJJeSOc0BKCS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration name="Get_github_profile_with_Redis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="M_S13L" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_github_profile_with_Redis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="M_S13L" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_github_profile_with_Redis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_redis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="M_S13L" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_redis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.Get_github_profile_with_Redis" />
+      <item itemvalue="Python.test_redis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Get_github_profile_with_Redis" />
+        <item itemvalue="Python.test_redis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92421603-745f-45e5-8032-9ba3018c591b" name="Default Changelist" comment="" />
+      <created>1579780747303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579780747303</updated>
+      <workItem from="1582650121533" duration="582000" />
+      <workItem from="1582650894566" duration="99000" />
+      <workItem from="1582651032090" duration="853000" />
+      <workItem from="1582652107857" duration="154000" />
+      <workItem from="1582652300877" duration="228000" />
+      <workItem from="1582652659773" duration="17000" />
+      <workItem from="1582652722981" duration="349000" />
+      <workItem from="1582654187035" duration="354000" />
+      <workItem from="1582664856181" duration="2336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="0" key="#Get_github_profile_with_Redis" timestamp="1582651269781">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="359" y="0" key="#Get_github_profile_with_Redis/0.0.1280.760@0.0.1280.760" timestamp="1582651269781" />
+    <state x="359" y="0" key="#Unnamed" timestamp="1582652161830">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="359" y="0" key="#Unnamed/0.0.1280.760@0.0.1280.760" timestamp="1582652161830" />
+    <state x="94" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582651932534">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1582651932534" />
+    <state x="359" y="0" key="#rabbitmatest" timestamp="1582651497553">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="359" y="0" key="#rabbitmatest/0.0.1280.760@0.0.1280.760" timestamp="1582651497553" />
+    <state x="420" y="136" key="FileChooserDialogImpl" timestamp="1582651920501">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1582651920501" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1582701869928">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1582701869928" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1582701869928">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1582701869928" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1582701869928">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1582701869928" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1582701869928">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1582701869928" />
+    <state width="1259" height="236" key="GridCell.Tab.1.bottom" timestamp="1579940026002">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1579940026002" />
+    <state width="1259" height="236" key="GridCell.Tab.1.center" timestamp="1579940026001">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1579940026001" />
+    <state width="1259" height="236" key="GridCell.Tab.1.left" timestamp="1579940026001">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1579940026001" />
+    <state width="1259" height="236" key="GridCell.Tab.1.right" timestamp="1579940026002">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1579940026002" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1582664920720">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1582664920720" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_redis.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_redis.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="num-1" language="Python" />
+        <watch expression="r.get(num-1)" language="Python" />
+        <watch expression="r.get(7)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/M_S13L$Get_github_profile_with_Redis.coverage" NAME="Get_github_profile_with_Redis Coverage Results" MODIFIED="1582700126471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/M_S13L$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1582701624070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
