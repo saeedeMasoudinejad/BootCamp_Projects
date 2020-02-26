@@ -32,5 +32,4 @@ def fibo(num, r):
 
 
 
-# print(fibo(100,r))
-# # r.flushdb()
+
