@@ -1,13 +1,10 @@
 from django.shortcuts import render, redirect
 from django.views import View
+from .models import ProfileTable, Address
 from django.contrib.auth.forms import UserCreationForm
-from .froms import ProfileForm
-from .models import ProfileTable
 from django.contrib.auth.views import LoginView
-from django.http import HttpResponse
 from django.contrib.auth.models import User
-# from rest_framework.authtoken.models import Token
-from django.contrib.auth import login,authenticate
+from django.contrib.auth.mixins import LoginRequiredMixin
 
 
 def load_main_page(request):
@@ -22,34 +19,37 @@ class SignUp(View):
 
     def post(self, request):
         form_data = UserCreationForm(request.POST)
-        # print(request.POST[''])
         if form_data.is_valid():
             form_data.save()
-            user = authenticate(request, username=request.POST['username'], password=request.POST['password1'])
+            result = 1
+            # user = authenticate(request, username=request.POST['username'], password=request.POST['password1'])
             # Token.objects.get_or_create(user=user)
-            return redirect('home')
+            return redirect('/accounts/login/')
         else:
-            return HttpResponse("Not valid")
+            result = 0
+            return render(request, 'validationshow.html', {'result': result})
 
 
-class Profile(View):
+class Profile(LoginRequiredMixin, View):
 
     def get(self, request):
-        profile_form = ProfileForm()
-        return render(request, 'profile.html', {'profile_form': profile_form})
-        # return render(request, 'profile.html')
+        return render(request, 'profile.html')
+
     def post(self, request):
-        profile_data_form = ProfileForm(request.POST)
-        if profile_data_form.is_valid():
-            first_name = profile_data_form.cleaned_data['first_name']
-            last_name = profile_data_form.cleaned_data['last_name']
-            email = profile_data_form.cleaned_data['email']
-            mobile = profile_data_form.cleaned_data['mobile']
-            # birth_date = profile_data_form.cleaned_data['birth_date']
-            user = User.objects.get(username=request.user)
-            user.first_name = first_name
-            user.last_name = last_name
-            user.email = email
-            user.save()
-            profile = ProfileTable(user=user, phone_number=mobile)
-            profile.save()
+        first_name = request.POST['first_name']
+        last_name = request.POST['last_name']
+        email = request.POST['email']
+        mobile = request.POST['mobile']
+        city = request.POST['city']
+        zip = request.POST['zip']
+        address = request.POST['address']
+        user = User.objects.get(username=request.user)
+        user.first_name = first_name
+        user.last_name = last_name
+        user.email = email
+        user.save()
+        profile = ProfileTable(user=user, phone_number=mobile)
+        profile.save()
+        address = Address(user=user, city=city, address=address, zip_number=zip)
+        address.save()
+        return redirect('/home')

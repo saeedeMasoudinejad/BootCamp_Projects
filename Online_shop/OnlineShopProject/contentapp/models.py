@@ -38,6 +38,14 @@ class Content(models.Model):
     img = models.ImageField(verbose_name="تصویر محصول")
     brand = models.ForeignKey(Brand, on_delete=models.CASCADE, verbose_name="نام برند")
 
+    @property
+    def existance_status(self):
+        if self.inventory > 0:
+            status = 'موحود'
+        else:
+            status = 'ناموجود'
+        return status
+
     def __str__(self):
         return self.name
 

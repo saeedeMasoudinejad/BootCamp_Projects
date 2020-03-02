@@ -41,7 +41,9 @@ INSTALLED_APPS = [
     'contentapp',
     'tradeapp',
     'rest_framework',
-    # 'rest_framework.authtoken',
+    'django_extensions',
+    'rest_framework_swagger',
+
 ]
 
 MIDDLEWARE = [
@@ -81,7 +83,7 @@ WSGI_APPLICATION = 'OnlineShopProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'OnlineShop_test2',
+        'NAME': 'os_t3',
         'USER': 'postgres',
         'PASSWORD': '1370*Smn',
         'HOST': 'localhost',
@@ -131,9 +133,10 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
+REST_FRAMEWORK = { 'DEFAULT_SCHEMA_CLASS': 'rest_framework.schemas.coreapi.AutoSchema' }
 
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static/pic')
-LOGIN_REDIRECT_URL = '/main_home/'
-LOGOUT_REDIRECT_URL = '/main_home/'
+LOGIN_REDIRECT_URL = '/content'
+LOGOUT_REDIRECT_URL = '/content'

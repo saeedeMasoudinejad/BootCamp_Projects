@@ -1,0 +1,12 @@
+{% load static %}
+<script src="{% static 'js/bootstrap.min.js' %}"></script>
+<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+{% if result == 1 %}
+ <div class="alert alert-success" role="alert">
+   login successfully
+ </div>
+{% else %}
+<div class="alert alert-warning" role="alert">
+  username or password is not correct!
+</div>
+{% endif %}

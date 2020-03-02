@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.SCHEMA:os_t3.public</OriginalElement>
+  <nodes>
+    <node x="1168.603395061728" y="520.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.tradeapp_cart</node>
+    <node x="1835.353395061728" y="0.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_category</node>
+    <node x="968.9999999999998" y="829.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user_user_permissions</node>
+    <node x="536.0" y="1035.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_type</node>
+    <node x="913.603395061728" y="498.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_admin_log</node>
+    <node x="0.0" y="1035.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_migrations</node>
+    <node x="712.603395061728" y="542.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.loginapp_profiletable</node>
+    <node x="1669.603395061728" y="520.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_laptop</node>
+    <node x="1542.4577601410933" y="0.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_brand</node>
+    <node x="1312.603395061728" y="542.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_permission</node>
+    <node x="537.7499999999998" y="829.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_group_permissions</node>
+    <node x="487.7499999999998" y="564.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_group</node>
+    <node x="140.0" y="531.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.loginapp_address</node>
+    <node x="375.7499999999998" y="829.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user_groups</node>
+    <node x="255.0" y="1035.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_session</node>
+    <node x="1167.6249999999998" y="233.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_content_type</node>
+    <node x="1546.9577601410933" y="200.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_content</node>
+    <node x="177.75" y="785.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.tradeapp_order</node>
+    <node x="1848.603395061728" y="520.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_tv</node>
+    <node x="1490.603395061728" y="531.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_mobile</node>
+    <node x="585.103395061728" y="145.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user</node>
+    <node x="2027.603395061728" y="531.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_refrigerator</node>
+    <node x="1975.300661375661" y="233.0">8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_subcategory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_laptop" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_content">
+      <point x="-39.75" y="-91.5" />
+      <point x="1709.353395061728" y="478.0" />
+      <point x="1624.9577601410933" y="478.0" />
+      <point x="0.0" y="91.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_content" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_brand">
+      <point x="0.0" y="-91.5" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_tv" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_content">
+      <point x="-53.0" y="-91.5" />
+      <point x="1875.103395061728" y="468.0" />
+      <point x="1656.1577601410934" y="468.0" />
+      <point x="31.200000000000045" y="91.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user_user_permissions" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user">
+      <point x="-53.0" y="-58.5" />
+      <point x="1021.9999999999998" y="745.0" />
+      <point x="702.103395061728" y="745.0" />
+      <point x="0.0" y="146.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user_user_permissions" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_permission">
+      <point x="53.0" y="-58.5" />
+      <point x="1127.9999999999998" y="765.0" />
+      <point x="1431.103395061728" y="765.0" />
+      <point x="39.5" y="69.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_refrigerator" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_content">
+      <point x="-63.66666666666663" y="-80.5" />
+      <point x="2059.4367283950614" y="458.0" />
+      <point x="1687.3577601410932" y="458.0" />
+      <point x="62.39999999999998" y="91.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_mobile" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_content">
+      <point x="39.75" y="-80.5" />
+      <point x="1609.853395061728" y="478.0" />
+      <point x="1593.7577601410933" y="478.0" />
+      <point x="-31.200000000000045" y="91.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_admin_log" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_content_type">
+      <point x="58.75" y="-113.5" />
+      <point x="1089.853395061728" y="478.0" />
+      <point x="1208.3749999999998" y="478.0" />
+      <point x="-40.75" y="58.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_group_permissions" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_permission">
+      <point x="46.0" y="-58.5" />
+      <point x="675.7499999999998" y="755.0" />
+      <point x="1352.103395061728" y="755.0" />
+      <point x="-39.5" y="69.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_subcategory" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_category">
+      <point x="0.0" y="-58.5" />
+      <point x="2067.300661375661" y="125.0" />
+      <point x="1962.753395061728" y="125.0" />
+      <point x="36.39999999999998" y="47.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_admin_log" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user">
+      <point x="-58.75" y="-113.5" />
+      <point x="972.353395061728" y="468.0" />
+      <point x="768.9605379188708" y="468.0" />
+      <point x="66.85714285714289" y="146.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_mobile" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_category">
+      <point x="-39.75" y="-80.5" />
+      <point x="1530.353395061728" y="468.0" />
+      <point x="1495.7077601410933" y="468.0" />
+      <point x="1495.7077601410933" y="115.0" />
+      <point x="1853.553395061728" y="115.0" />
+      <point x="-72.79999999999995" y="47.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_refrigerator" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_category">
+      <point x="63.66666666666663" y="-80.5" />
+      <point x="2186.7700617283945" y="478.0" />
+      <point x="2183.1867283950614" y="478.0" />
+      <point x="2183.1867283950614" y="115.0" />
+      <point x="1999.1533950617281" y="115.0" />
+      <point x="72.80000000000007" y="47.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user_groups" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_group">
+      <point x="35.5" y="-58.5" />
+      <point x="482.2499999999998" y="765.0" />
+      <point x="519.7499999999998" y="765.0" />
+      <point x="-32.0" y="47.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_tv" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_category">
+      <point x="0.0" y="-91.5" />
+      <point x="1928.103395061728" y="478.0" />
+      <point x="1926.353395061728" y="478.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_laptop" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_category">
+      <point x="39.75" y="-91.5" />
+      <point x="1788.853395061728" y="478.0" />
+      <point x="1793.353395061728" y="478.0" />
+      <point x="1793.353395061728" y="125.0" />
+      <point x="1889.9533950617279" y="125.0" />
+      <point x="-36.39999999999998" y="47.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_permission" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_content_type">
+      <point x="0.0" y="-69.5" />
+      <point x="1391.603395061728" y="468.0" />
+      <point x="1289.8749999999998" y="468.0" />
+      <point x="40.75" y="58.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_group_permissions" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_group">
+      <point x="-46.0" y="-58.5" />
+      <point x="32.0" y="47.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_refrigerator" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_subcategory">
+      <point x="0.0" y="-80.5" />
+      <point x="2123.103395061728" y="478.0" />
+      <point x="2113.300661375661" y="478.0" />
+      <point x="46.0" y="58.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.tradeapp_order" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.loginapp_address">
+      <point x="-44.5" y="-102.5" />
+      <point x="222.25" y="765.0" />
+      <point x="221.0" y="765.0" />
+      <point x="0.0" y="80.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.loginapp_profiletable" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user">
+      <point x="0.0" y="-69.5" />
+      <point x="803.103395061728" y="478.0" />
+      <point x="735.5319664902993" y="478.0" />
+      <point x="33.42857142857133" y="146.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.tradeapp_order" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user">
+      <point x="44.5" y="-102.5" />
+      <point x="311.25" y="765.0" />
+      <point x="312.4999999999998" y="765.0" />
+      <point x="312.4999999999998" y="468.0" />
+      <point x="635.2462522045851" y="468.0" />
+      <point x="-66.85714285714289" y="146.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.tradeapp_cart" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_content">
+      <point x="31.0" y="-91.5" />
+      <point x="1261.603395061728" y="478.0" />
+      <point x="1562.5577601410932" y="478.0" />
+      <point x="-62.39999999999998" y="91.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user_groups" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user">
+      <point x="-35.5" y="-58.5" />
+      <point x="411.2499999999998" y="478.0" />
+      <point x="668.6748236331566" y="478.0" />
+      <point x="-33.42857142857133" y="146.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.loginapp_address" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user">
+      <point x="0.0" y="-80.5" />
+      <point x="221.0" y="458.0" />
+      <point x="601.8176807760137" y="458.0" />
+      <point x="-100.28571428571422" y="146.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_tv" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.contentapp_subcategory">
+      <point x="53.0" y="-91.5" />
+      <point x="1981.103395061728" y="478.0" />
+      <point x="2021.300661375661" y="478.0" />
+      <point x="-46.0" y="58.5" />
+    </edge>
+    <edge source="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.tradeapp_cart" target="8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.auth_user">
+      <point x="-31.0" y="-91.5" />
+      <point x="1199.603395061728" y="458.0" />
+      <point x="802.3891093474422" y="458.0" />
+      <point x="100.28571428571422" y="146.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.3257956448911223" x="1193.5" y="587.0" />
+  <SelectedNodes>
+    <node>8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.TABLE:os_t3.public.django_admin_log</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+  </Categories>
+</Diagram>
+
