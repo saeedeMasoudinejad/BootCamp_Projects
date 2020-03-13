@@ -20,7 +20,6 @@
     <orderEntry type="module" module-name="MD_s7" />
     <orderEntry type="module" module-name="MD_s8" />
     <orderEntry type="module" module-name="Test" />
-    <orderEntry type="module" module-name="assignment_2" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
