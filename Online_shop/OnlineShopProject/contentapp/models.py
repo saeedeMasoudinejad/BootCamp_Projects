@@ -1,6 +1,7 @@
 from django.db import models
 from model_utils.managers import InheritanceManager
 
+
 class Category(models.Model):
     name_category = models.CharField(max_length=256, verbose_name="نام دسته")
 
@@ -51,16 +52,6 @@ class Content(models.Model):
 
 
 class Mobile(Content):
-    # silver = 'silver'
-    # black = 'black'
-    # rosegold = 'rosegold'
-    # white = 'white'
-    # mobile_color = [
-    #     (silver, 'silver'),
-    #     (black, 'black'),
-    #     (rosegold, 'rosegold'),
-    #     (white, 'white')
-    # ]
     parent_link = models.OneToOneField(Content, on_delete=models.CASCADE, parent_link=True, related_name='mobile')
     category = models.ForeignKey(Category, on_delete=models.CASCADE, verbose_name="نام دسته")
     weight = models.FloatField(help_text="according of kg", verbose_name="وزن")

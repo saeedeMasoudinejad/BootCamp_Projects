@@ -1,8 +1,5 @@
 from django.shortcuts import render, redirect
 from rest_framework.viewsets import ModelViewSet, ReadOnlyModelViewSet
-from rest_framework.views import APIView
-from rest_framework.decorators import action
-from rest_framework.response import Response
 from .serializer import CartSerializer, CartDetailSerializer, OrderSerializer, ChoiceAddressSerializer,\
     FinalFactorSerializer, PaymentSerializer, SupplierSerializer
 from django.contrib.auth.mixins import LoginRequiredMixin, PermissionRequiredMixin

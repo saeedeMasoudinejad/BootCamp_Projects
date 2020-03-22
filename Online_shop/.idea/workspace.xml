@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55477c71-2e55-4545-9629-350caa5384d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Online_shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Online_shop.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8f6f1ae2-48b3-44f3-8af2-3972e0ac4d59.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model Diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contentapp_model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotfile.dot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trade_model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/111475300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/114068369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/3637492.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/3743099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/3903329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/4150369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/4209444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/4560848.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/a.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/contentapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShopProject/contentapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/contentapp/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShopProject/contentapp/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/contentapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShopProject/contentapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/contentapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShopProject/contentapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/dotfile.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/tradeapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShopProject/tradeapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShopProject/tradeapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShopProject/tradeapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +101,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\git\BootCamp_Projects\Online_shop\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
       <facet id="Online_shop/invalid/Django" />
@@ -105,6 +124,7 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
@@ -186,32 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server" nameIsGenerated="true">
-      <module name="Online_shop" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\saide\.virtualenvs\Online_shop-7TEzfEvG\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Django server.Unnamed" />
       <item itemvalue="Python.manage" />
       <item itemvalue="Python.tradeapp" />
       <item itemvalue="Python.views" />
@@ -262,7 +257,11 @@
       <workItem from="1581300856546" duration="9014000" />
       <workItem from="1581403762132" duration="1263000" />
       <workItem from="1581405271895" duration="17734000" />
-      <workItem from="1584111109755" duration="641000" />
+      <workItem from="1584111109755" duration="2777000" />
+      <workItem from="1584119319087" duration="407000" />
+      <workItem from="1584119821914" duration="99000" />
+      <workItem from="1584119932824" duration="699000" />
+      <workItem from="1584880458574" duration="385000" />
     </task>
     <servers />
   </component>
@@ -290,10 +289,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="374" y="159" key="EnvironmentVariablesDialog/0.0.1280.760@0.0.1280.760" timestamp="1580656433268" />
-    <state x="420" y="136" key="FileChooserDialogImpl" timestamp="1581437397558">
+    <state x="420" y="136" key="FileChooserDialogImpl" timestamp="1584253756581">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="420" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1581437397558" />
+    <state x="420" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1584253756581" />
     <state width="845" height="374" key="GridCell.Tab.0.bottom" timestamp="1581428911980">
       <screen x="0" y="0" width="1280" height="760" />
     </state>

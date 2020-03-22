@@ -8,10 +8,9 @@ router.register('tv', ShowAllTv)
 router.register('mobile', ShowAllMobile)
 router.register('laptop', ShowAllLaptop)
 router.register('ref', ShowAllRefrigerator)
-# router.register('all', ShowAllContent)
+
 urlpatterns = [
-    # path('home1/<int:id>',DetailsShowContent.as_view())
-    path('content', include(router.urls)),
+    path('content', include(router.urls)),  # show url of all content of online shop base on category
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

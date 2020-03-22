@@ -1,7 +1,5 @@
 from django.shortcuts import render
 from rest_framework.viewsets import ReadOnlyModelViewSet
-from rest_framework.views import APIView
-from rest_framework.response import Response
 from .serializer import (AllTvSerializer, AllMobileSerializer, AllLaptopSerializer,
                          AllRefrigeratorSerializer, EachLaptopInfSerializer, EachMobileInfSerializer,
                          EachRefrigeratorInfSerializer, EachTvInfSerializer)
@@ -10,7 +8,7 @@ from rest_framework import filters
 
 
 class ShowAllTv(ReadOnlyModelViewSet):
-
+    """ show all Tv with some detail and all detail info of each Tv """
     queryset = TV.objects.all()
     serializer = {
         'list': AllTvSerializer,
@@ -24,7 +22,7 @@ class ShowAllTv(ReadOnlyModelViewSet):
 
 
 class ShowAllMobile(ReadOnlyModelViewSet):
-
+    """ show all Mobile with some detail and all detail info of each Mobile """
     queryset = Mobile.objects.all()
     serializer = {
         'list': AllMobileSerializer,
@@ -38,7 +36,7 @@ class ShowAllMobile(ReadOnlyModelViewSet):
 
 
 class ShowAllLaptop(ReadOnlyModelViewSet):
-
+    """ show all laptop with some detail and all detail info of each laptop """
     queryset = Laptop.objects.all()
     serializer = {
         'list': AllLaptopSerializer,
@@ -52,7 +50,7 @@ class ShowAllLaptop(ReadOnlyModelViewSet):
 
 
 class ShowAllRefrigerator(ReadOnlyModelViewSet):
-
+    """ show all Refrigerator with some detail and all detail info of each Refrigerator """
     queryset = Refrigerator.objects.all()
     serializer = {
         'list': AllRefrigeratorSerializer,
@@ -65,11 +63,3 @@ class ShowAllRefrigerator(ReadOnlyModelViewSet):
         return self.serializer.get(self.action)
 
 
-# class DetailsShowContent(APIView):
-#     def get(self, request, id):
-#         type = Type.objects.get(id=id)
-#         return Response(type['type_name'])
-
-# class ShowType(ReadOnlyModelViewSet):
-#     queryset = Type.objects.all()
-#     serializer_class = TypeSerializer
